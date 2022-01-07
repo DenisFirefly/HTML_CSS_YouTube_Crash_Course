@@ -1,0 +1,51 @@
+/* p.error {
+    color: crimson;
+}
+p.success {
+    color: rgb(1, 233, 1);
+}
+p.success.feedback {
+    border: 1px dashed rgb(1, 233, 1);
+}
+#content {
+    background: #ebebeb;
+    padding: 20px;
+} */
+/* div .error {
+    color: purple;
+} */
+/* a[href*="google"] {
+    background-color: green ;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+a[href*="you"] {
+    color: white;
+    background: rebeccapurple;
+    border: 2px solid blueviolet;
+}
+a[href$=".de"] {
+    color: coral;
+    background: cyan;
+    border: 2px dashed yellow;
+}
+a[href$=".pdf"] {
+    background-image: image-set();
+    background-position: left;
+} */
+div{
+    color: lightcoral;
+    border: 1px solid gray;
+    margin: 40px;
+    font-weight: bold;
+}
+div p{
+    border: inherit;
+    margin: inherit;
+    color: crimson;
+}
+p{
+    color: orange;
+}
